@@ -27,9 +27,10 @@ Digital twins are made with the BIM methodology (Building Information Modelling)
 7. Model conversion to GLTF format
 8. View creation
    
-   Edit materials
+   a. Edit materials
    
-   Set start viewpoint
+   b. Set start viewpoint
    
-   Publish in the cloud
+   c. Publish in the cloud
+   
 9. Integration of views into online communication
