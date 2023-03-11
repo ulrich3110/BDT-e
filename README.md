@@ -37,4 +37,4 @@ Digital twins are made with the BIM methodology (Building Information Modelling)
 
 # Project overview
 
-[bdt@DaRafmi](https://github.com/ulrich3110/BDT-e/edit/main/bdtdrm23.md)
+[bdt@DaRafmi](https://github.com/ulrich3110/BDT-e/blob/main/bdtdrm23.md)
