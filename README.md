@@ -34,3 +34,7 @@ Digital twins are made with the BIM methodology (Building Information Modelling)
    c. Publish in the cloud
    
 9. Integration of views into online communication
+
+# Project overview
+
+[bdt@DaRafmi](https://github.com/ulrich3110/BDT-e/edit/main/bdtdrm23.md)
