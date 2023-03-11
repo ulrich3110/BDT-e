@@ -1,5 +1,5 @@
 # BDT@e
-Basic eigital twins @ erasand of real estate for communication
+Basic digital twins @ erasand of real estate for communication
 
 ## Why
 Digital twins are made with the BIM methodology (Building Information Modelling). We will present information about buildings represented by digital twins.
