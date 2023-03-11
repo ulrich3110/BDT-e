@@ -53,6 +53,12 @@ As a pilot project, it is being investigated to what extent communication could 
 
 
 ## Data drop of the models as basis for the views
+- DrmGebNachb.ifc (Building with neighboring structures)
+- DrmEg.ifc (Ground floor)
+- DrmOg.ifc (Upper floor with ground floor)
+- DrmGebSchn.ifc (Building cut in section)
+- DrmUmgeb.ifc (Building with the surrounding area)
+- DrmGeb.ifc (Only building)
 
 ## Model conversion to GLTF format
 
