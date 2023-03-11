@@ -17,10 +17,10 @@ basic digital twin @ Da Rafmi
 
 ## View creation
 
-### Edit materials
+Edit materials
    
-### Set start viewpoint
+Set start viewpoint
    
-### Publish in the cloud
+Publish in the cloud
    
 ## Integration of views into online communication
