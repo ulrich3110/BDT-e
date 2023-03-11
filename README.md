@@ -19,7 +19,7 @@ Digital twins are made with the BIM methodology (Building Information Modelling)
 
 ## Example process
 1. Real estate project
-2. 3D model, ifc model, BIM planned project
+2. 3D model, ifc model or BIM planned project
 3. Need to communicate with digital twins
 4. Which customers do I want to reach
 5. View definition
@@ -37,4 +37,4 @@ Digital twins are made with the BIM methodology (Building Information Modelling)
 
 # Project overview
 
-[bdt@DaRafmi](https://github.com/ulrich3110/BDT-e/blob/main/bdtdrm23.md)
+[bdt@DaRafmi](https://github.com/ulrich3110/BDT-e/edit/main/bdtdrm23.md)
