@@ -15,6 +15,42 @@ As a pilot project, it is being investigated to what extent communication could 
 [Journey Map](https://raw.githubusercontent.com/ulrich3110/BDT-e/main/bdtdrm23_journeymap.png)
 
 ## View definition
+1. Trattoria
+
+   Gastraum EG
+   
+   Gastraum OG
+   
+2. DaRafmit GmbH
+
+   Öffnungszeiten
+
+   Speisekarte
+   
+   Anfahrt
+
+3. Interlaken
+
+   Maps
+
+   Unterseen
+
+   Spielmatte
+
+4. Trattoria
+
+   Handwerker, Lieferant, Produzent
+
+   Küche Haus
+
+   Küche Erdgeschos
+
+   Lüftung Haus
+
+   Lüftung Erdgeschoss
+
+   Lüftung Obergeschos
+
 
 ## Data drop of the models as basis for the views
 
