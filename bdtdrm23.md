@@ -12,7 +12,7 @@ The planning was carried out as little-BIM, and conventional 2D documents were p
 As a pilot project, it is being investigated to what extent communication could be carried out using the models.
 
 ## Which customers do I want to reach
-[Journey Map](https://github.com/ulrich3110/BDT-e/blob/main/bdtdrm23_journeymap.svg)
+[Journey Map](https://raw.githubusercontent.com/ulrich3110/BDT-e/main/bdtdrm23_journeymap.png)
 
 ## View definition
 
