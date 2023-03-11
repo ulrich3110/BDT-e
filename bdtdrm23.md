@@ -2,9 +2,7 @@
 basic digital twin @ Da Rafmi
 
 ## Real estate project
-The company Rafmi GmbH is looking for a new location for their Italian specialty restaurant in Interlaken. In the summer of 2021, a property was found in Unterseen that met their needs.
-
-The historic building located at Spielmatte 41 in Unterseen, which is under protection as a historic monument, is planned to be converted from a retail space to a small restaurant with minimal intervention. The apartments on the 2nd and 3rd floors should be affected as little as possible. The goal is also to avoid any potential friction with the historic monument protection and neighbors as much as possible.
+The company Rafmi GmbH is looking for a new location for their Italian specialty restaurant in Interlaken. In the summer of 2021, a property was found in Unterseen that met their needs. The historic building located at Spielmatte 41 in Unterseen, which is under protection as a historic monument, is planned to be converted from a retail space to a small restaurant with minimal intervention. The apartments on the 2nd and 3rd floors should be affected as little as possible. The goal is also to avoid any potential friction with the historic monument protection and neighbors as much as possible.
 
 
 ## Bim planned project
