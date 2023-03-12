@@ -92,7 +92,7 @@ DrmGeb.zip (GLTF Model: Only building)
 ### Edit materials
 1. Analize materials in GLTF models: 
    
-### Export views prepared GLTG models
+### Export views prepared GLTF models
    
 ### Publish with online access
 
