@@ -70,11 +70,12 @@ As a pilot project, it is being investigated to what extent communication could 
 
 ## View creation
 
-Edit materials
+### Edit materials
+1. Analize materials in GLTF models: 
    
-Set start viewpoint
+### Export views prepared GLTG models
    
-Publish in the cloud
+### Publish with online access
    
 ## Integration of views into online communication
 
