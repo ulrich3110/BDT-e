@@ -18,39 +18,39 @@ As a pilot project, it is being investigated to what extent communication could 
 
 ### Trattoria
 
-   Gastraum EG
+Gastraum EG
    
-   Gastraum OG
+Gastraum OG
    
 ### DaRafmit GmbH
 
-   Öffnungszeiten
+Öffnungszeiten
 
-   Speisekarte
+Speisekarte
    
-   Anfahrt
+Anfahrt
 
 ### Interlaken
 
-   Maps
+Maps
 
-   Unterseen
+Unterseen
 
-   Spielmatte
+Spielmatte
 
-### Trattoria
+Trattoria
 
-   Handwerker, Lieferant, Produzent
+### Handwerker, Lieferant, Produzent
 
-   Küche Haus
+Küche Haus
 
-   Küche Erdgeschos
+Küche Erdgeschos
 
-   Lüftung Haus
+Lüftung Haus
 
-   Lüftung Erdgeschoss
+Lüftung Erdgeschoss
 
-   Lüftung Obergeschos
+Lüftung Obergeschos
 
 
 ## Data drop of the models as basis for the views
