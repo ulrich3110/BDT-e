@@ -104,6 +104,9 @@ Analize materials in GLTF models and clean them up: [Google Sheet](https://docs.
 [DrmUmgebEdit.zip](https://www.dropbox.com/s/ix9vx3ehh6fgkkc/DrmUmgebEdit.zip?dl=0)
 
 [DrmGebEdit.zip](https://www.dropbox.com/s/b7ugtkf6utadxmb/DrmGebEdit.zip?dl=0)
+
+Generate all GLTF view models from GLTF base models: [Google Sheet]()
+
    
 ### Export views prepared GLTF models
    
