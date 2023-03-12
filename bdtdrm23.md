@@ -103,7 +103,7 @@ Analize materials in GLTF models and clean them up: [Google Sheet](https://docs.
 
 [DrmGebEdit.zip](https://www.dropbox.com/s/b7ugtkf6utadxmb/DrmGebEdit.zip?dl=0)
 
-Generate all GLTF view models from GLTF base models and publish with online access: [Google Sheet]()
+Generate all GLTF view models from GLTF base models and publish with online access: [Google Sheet](https://docs.google.com/spreadsheets/d/1RfamOVjDKgBXHDr_XwWMISiwTLGOXlZygUOjYesB__0/edit?usp=share_link)
 
 [bdtDrm23KitchHous.zip](https://www.dropbox.com/s/xxjube54uwedk17/bdtDrm23KitchHous.zip?dl=0)
 
