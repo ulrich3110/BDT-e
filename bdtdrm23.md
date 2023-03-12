@@ -14,8 +14,8 @@ The planning was carried out as little-BIM, and conventional 2D documents were p
 As a pilot project, it is being investigated to what extent communication could be carried out using the models.
 
 
-## Which customers do I want to reach
-[Journey Map](https://raw.githubusercontent.com/ulrich3110/BDT-e/main/bdtdrm23_journeymap.png)
+## Which customers should be reached
+[Journey Map](https://docs.google.com/presentation/d/1vEqTqFVFjLc-H--8S6njrydX2ncRLIFRBc6E45ga5vM/edit?usp=share_link)
 
 
 ## View definition
@@ -92,6 +92,18 @@ Lüftung Obergeschos
 ### Edit materials
 
 Analize materials in GLTF models and clean them up: [Google Sheet](https://docs.google.com/spreadsheets/d/1_rzlkOxh58FkYKQ9DBiu0p2w31k-qU1KdCVuO-w2Z_A/edit?usp=share_link)
+
+[DrmGebNachbEdit.zip](https://www.dropbox.com/s/hny8b6dx6zw4ag5/DrmGebNachbEdit.zip?dl=0)
+
+[DrmEgEdit.zip](https://www.dropbox.com/s/81q3xcxmbb64r1u/DrmEgEdit.zip?dl=0)
+
+[DrmOgEdit.zip](https://www.dropbox.com/s/erpu9qprouf3d07/DrmOgEdit.zip?dl=0)
+
+[DrmGebSchnEdit.zip](https://www.dropbox.com/s/d8np0rt3tzq3ej3/DrmGebSchnEdit.zip?dl=0)
+
+[DrmUmgebEdit.zip](https://www.dropbox.com/s/ix9vx3ehh6fgkkc/DrmUmgebEdit.zip?dl=0)
+
+[DrmGebEdit.zip](https://www.dropbox.com/s/b7ugtkf6utadxmb/DrmGebEdit.zip?dl=0)
    
 ### Export views prepared GLTF models
    
