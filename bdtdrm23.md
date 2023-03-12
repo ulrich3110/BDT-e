@@ -22,7 +22,7 @@ Gastraum EG
    
 Gastraum OG
    
-### DaRafmit GmbH
+### DaRafmi GmbH
 
 Öffnungszeiten
 
