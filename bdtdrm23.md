@@ -91,7 +91,7 @@ Lüftung Obergeschos
 
 ### Edit materials
 
-Analize materials in GLTF models and clean them up: [Google Sheet[(https://docs.google.com/spreadsheets/d/1_rzlkOxh58FkYKQ9DBiu0p2w31k-qU1KdCVuO-w2Z_A/edit?usp=share_link)
+Analize materials in GLTF models and clean them up: [Google Sheet](https://docs.google.com/spreadsheets/d/1_rzlkOxh58FkYKQ9DBiu0p2w31k-qU1KdCVuO-w2Z_A/edit?usp=share_link)
    
 ### Export views prepared GLTF models
    
