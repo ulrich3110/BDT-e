@@ -15,13 +15,14 @@ As a pilot project, it is being investigated to what extent communication could 
 [Journey Map](https://raw.githubusercontent.com/ulrich3110/BDT-e/main/bdtdrm23_journeymap.png)
 
 ## View definition
-1. Trattoria
+
+### Trattoria
 
    Gastraum EG
    
    Gastraum OG
    
-2. DaRafmit GmbH
+### DaRafmit GmbH
 
    Öffnungszeiten
 
@@ -29,7 +30,7 @@ As a pilot project, it is being investigated to what extent communication could 
    
    Anfahrt
 
-3. Interlaken
+### Interlaken
 
    Maps
 
@@ -37,7 +38,7 @@ As a pilot project, it is being investigated to what extent communication could 
 
    Spielmatte
 
-4. Trattoria
+### Trattoria
 
    Handwerker, Lieferant, Produzent
 
