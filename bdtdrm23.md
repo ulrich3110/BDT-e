@@ -59,38 +59,39 @@ Lüftung Obergeschos
 
 ## Data drop of the models as basis for the views
 
-DrmGebNachb.ifc (Ifc Model: Building with neighboring structures)
+[DrmGebNachb.ifc (Ifc Model: Building with neighboring structures)](https://www.dropbox.com/s/gclt32t4x6sqobq/DrmGebNachb.ifc?dl=0)
 
-DrmEg.ifc (Ifc Model: Ground floor)
+[DrmEg.ifc (Ifc Model: Ground floor)](https://www.dropbox.com/s/92i00y657nfj21x/DrmEg.ifc?dl=0)
 
-DrmOg.ifc (Ifc Model: Upper floor with ground floor)
+[DrmOg.ifc (Ifc Model: Upper floor with ground floor)](https://www.dropbox.com/s/awjkzst2ftcln5c/DrmOg.ifc?dl=0)
 
-DrmGebSchn.ifc (Ifc Model: Building cut in section)
+[DrmGebSchn.ifc (Ifc Model: Building cut in section)](https://www.dropbox.com/s/t7evmehx5fzc0cw/DrmGebSchn.ifc?dl=0)
 
-DrmUmgeb.ifc (Ifc Model: Building with the surrounding area)
+[DrmUmgeb.ifc (Ifc Model: Building with the surrounding area)](https://www.dropbox.com/s/i8hrc6ackbzmid3/DrmUmgeb.ifc?dl=0)
 
-DrmGeb.ifc (Ifc Model: Only building)
+[DrmGeb.ifc (Ifc Model: Only building)](https://www.dropbox.com/s/xfrawd5geucx8e2/DrmGeb.ifc?dl=0)
 
 
 ## Model conversion to GLTF format
 
-DrmGebNachb.zip (GLTF Model: Building with neighboring structures)
+[DrmGebNachb.zip (GLTF Model: Building with neighboring structures)](https://www.dropbox.com/s/81sunu3tzj3hhfw/DrmGebNachb.zip?dl=0)
 
-DrmEg.zip (GLTF Model: Ground floor)
+[DrmEg.zip (GLTF Model: Ground floor)](https://www.dropbox.com/s/hkl91mtpxjwp25n/DrmEg.zip?dl=0)
 
-DrmOg.zip (GLTF Model: Upper floor with ground floor)
+[DrmOg.zip (GLTF Model: Upper floor with ground floor)](https://www.dropbox.com/s/qc89smv7x0ycf95/DrmOg.zip?dl=0)
 
-DrmGebSchn.zip (GLTF Model: Building cut in section)
+[DrmGebSchn.zip (GLTF Model: Building cut in section)](https://www.dropbox.com/s/7bc69ahey0eyksl/DrmGebSchn.zip?dl=0)
 
-DrmUmgeb.zip (GLTF Model: Building with the surrounding area)
+[DrmUmgeb.zip (GLTF Model: Building with the surrounding area)](https://www.dropbox.com/s/6y85s8vpgwxj98q/DrmUmgeb.zip?dl=0)
 
-DrmGeb.zip (GLTF Model: Only building)
+[DrmGeb.zip (GLTF Model: Only building)](https://www.dropbox.com/s/g2luk0ret0b9qye/DrmGeb.zip?dl=0)
 
 
 ## View creation
 
 ### Edit materials
-1. Analize materials in GLTF models: 
+
+Analize materials in GLTF models and clean them up: [Google Sheet[(https://docs.google.com/spreadsheets/d/1_rzlkOxh58FkYKQ9DBiu0p2w31k-qU1KdCVuO-w2Z_A/edit?usp=share_link)
    
 ### Export views prepared GLTF models
    
