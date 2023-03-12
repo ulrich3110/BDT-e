@@ -89,8 +89,6 @@ Lüftung Obergeschos
 
 ## View creation
 
-### Edit materials
-
 Analize materials in GLTF models and clean them up: [Google Sheet](https://docs.google.com/spreadsheets/d/1_rzlkOxh58FkYKQ9DBiu0p2w31k-qU1KdCVuO-w2Z_A/edit?usp=share_link)
 
 [DrmGebNachbEdit.zip](https://www.dropbox.com/s/hny8b6dx6zw4ag5/DrmGebNachbEdit.zip?dl=0)
@@ -105,12 +103,7 @@ Analize materials in GLTF models and clean them up: [Google Sheet](https://docs.
 
 [DrmGebEdit.zip](https://www.dropbox.com/s/b7ugtkf6utadxmb/DrmGebEdit.zip?dl=0)
 
-Generate all GLTF view models from GLTF base models: [Google Sheet]()
-
-   
-### Export views prepared GLTF models
-   
-### Publish with online access
+Generate all GLTF view models from GLTF base models and publish with online access: [Google Sheet]()
 
 
 ## Integration of views into online communication
