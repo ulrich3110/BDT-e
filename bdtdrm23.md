@@ -22,21 +22,21 @@ As a pilot project, it is being investigated to what extent communication could 
 
 ### Trattoria
 
-Gastraum EG
+Dining area ground floor
    
-Gastraum OG
+Dining area upper floor
    
 ### DaRafmi GmbH
 
-Öffnungszeiten
+Opening hours
 
-Speisekarte
+Dining menu
    
-Anfahrt
+How to get here
 
 ### Interlaken
 
-Maps
+Tourist region
 
 Unterseen
 
@@ -44,17 +44,17 @@ Spielmatte
 
 Trattoria
 
-### Handwerker, Lieferant, Produzent
+### Craftsman, supplier, producer
 
-Küche Haus
+Restaurant kitchen and house
 
-Küche Erdgeschos
+Restaurant kitchen and ground floor
 
-Lüftung Haus
+Ventilation and house
 
-Lüftung Erdgeschoss
+Ventilation and ground floor
 
-Lüftung Obergeschos
+Ventilation and upper floor
 
 
 ## Data drop of the models as basis for the views
@@ -104,6 +104,10 @@ Analize materials in GLTF models and clean them up: [Google Sheet](https://docs.
 [DrmGebEdit.zip](https://www.dropbox.com/s/b7ugtkf6utadxmb/DrmGebEdit.zip?dl=0)
 
 Generate all GLTF view models from GLTF base models and publish with online access: [Google Sheet]()
+
+[bdtDrm23KitchHous.zip](https://www.dropbox.com/s/xxjube54uwedk17/bdtDrm23KitchHous.zip?dl=0)
+
+[bdtDrm23KitchEg.zip](https://www.dropbox.com/s/i9tk2axg5y7hbmf/bdtDrm23KitchEg.zip?dl=0)
 
 
 ## Integration of views into online communication
